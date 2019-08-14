@@ -1,0 +1,31 @@
+body {
+	font-family: 'Eczar', serif;
+}
+
+th.sortable {
+	cursor: pointer;
+}
+
+.icon-sm {
+  width: 32px;
+}
+.icon-xs {
+  width: 24px
+}
+
+.caret {
+  font-size: 0.8em;
+  float: right;
+  color: darkred;
+}
+
+cite:before {
+  content: "-";
+}
+cite {
+  white-space: pre;
+}
+
+.icon-inline {
+  height: 1em;
+}
